@@ -1,0 +1,75 @@
+.cards {
+	display: flex;
+	height: 400px;
+	width: 300px;
+}
+
+.card {
+	padding: 50px;
+	margin: -80px;
+	padding-left: 200px; 
+	padding-right: 150px;
+	margin-top: -5px;
+	display: flex;
+	width: 420px;
+	text-align: justify;
+}
+
+img {
+	height:90px;
+	width:130px;
+}
+
+body {
+	background-image: url("../images/cuillere.jpg");
+	background-size: 1440px 740px;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+	font-family: 'Overlock', cursive;
+}
+
+.titre {
+	padding-left: 150px;
+	margin: 20px; 
+	font-family: 'Dancing Script', cursive;
+	font-size: 26px;
+}
+
+.cardmarianne {
+	padding-top: 20px;
+	height:400px;
+	width:500px;
+	padding-left: 70px;
+	margin-left: 10px;
+}
+
+.buttons {
+	margin-top: 10px;
+	display: flex;
+	padding-top: -20px;
+	margin-bottom: 20px;
+}
+
+.retour {
+	padding-top: 62px;
+	padding-left: 165px;
+	display: flex;
+	margin-top: 80px;
+}
+
+.valider {
+	padding-top: 62px;
+	padding-left: 830px;
+	display: flex;
+	text-align: right;
+	display: flex;
+	margin-top: 80px;
+}
+
+a:hover{
+	opacity: 0.5;
+}

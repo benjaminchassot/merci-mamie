@@ -1,0 +1,52 @@
+div	{
+	border: 0px solid black;
+	padding-top: 30px; 
+}
+nav	ul{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+nav li{
+	display: inline-block;
+	width: 100px;
+	height: 40px;
+	margin: 0px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 23px;
+}
+.Nav-left {
+	width: 50%;
+	padding-left: 40px;
+	float: left;
+}
+.Nav {
+	text-align: right;
+	width: 25%;
+	float: right;
+	padding-right: 50px;
+}
+body {
+margin: 0PX; 
+background-image: url("../images/page de fin.jpg");
+}
+#Logo {
+	width: 30px;
+	height: 30px;
+}
+h1	{
+	font-size: 65px;
+	text-align: center;
+	margin-top: 60px;
+	font-family: 'Overlock', cursive;
+}
+.merci{
+	width: 750px;
+	margin: auto;
+	margin-top: 15px;
+}
+a:hover{
+	opacity: 0.5;
+}
